@@ -1,2 +1,0 @@
-# technika
-technika website
