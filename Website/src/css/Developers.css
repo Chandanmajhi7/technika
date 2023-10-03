@@ -112,7 +112,7 @@ h3{
     color: #1070f4;
 }
 
-@media(max-width: 992px){
+@media screen and (max-width: 992px){
     .container-fluid video {
         position: fixed;
     }

@@ -32,13 +32,13 @@ div header{
     padding-left: 0.5rem;
 }
 
-@media(max-width: 992px){
+@media screen and (max-width: 992px){
     .row{
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
-@media(max-width: 576px){
+@media screen and (max-width: 576px){
     .row{
         grid-template-columns: 1fr;
     }
