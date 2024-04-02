@@ -32,9 +32,9 @@ const Navbar = () => {
                 <div>
                     <ul id="navbar" className={click ? "#navbar active" : "#navbar"}>
                         <li><a href="/" onClick={closeMenu}>Home</a></li>
-                        <li><a href="#HeroPage" onClick={closeMenu}>About</a></li>
+                        <li><a href="#about" onClick={closeMenu}>About</a></li>
                         <li><a href="#events" onClick={closeMenu}>Events</a></li>
-                        <li><a href="/" onClick={closeMenu}>Organizer</a></li>
+                        <li><a href="#organizer" onClick={closeMenu}>Organizer</a></li>
                         <li><a href="#developers" onClick={closeMenu}>Teams</a></li>
                     </ul>
                 </div>

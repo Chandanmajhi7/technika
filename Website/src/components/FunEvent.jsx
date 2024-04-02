@@ -65,6 +65,23 @@ function FunEvent() {
             </div>
 
 
+            <div className="card" style={{ background: 'url(./Events_Images/Code_buster.jpeg)' }}>
+                <div className="contentWrapper">
+                    <div className="content">
+                        <h3>Line Follower</h3>
+                        <p>Lorem ipsum is typically a corrupted irst two words themselves are a truncation of 'dolorem ipsum' ('pain itself')</p>
+                    </div>
+                </div>
+            </div>
+
+            <div className="card" style={{ background: 'url(./Events_Images/Code_buster.jpeg)' }}>
+                <div className="contentWrapper">
+                    <div className="content">
+                        <h3>Line Follower</h3>
+                        <p>Lorem ipsum is typically a corrupted irst two words themselves are a truncation of 'dolorem ipsum' ('pain itself')</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 

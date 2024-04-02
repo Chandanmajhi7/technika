@@ -17,9 +17,8 @@ div header{
     font-size: 8vh;
     text-align: center;
     text-shadow: -4px 10px 10px rgba(122,42,215,0.96);
-    font-family: 'Kavoon', sans-serif;
-    font-weight: 400;
-
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
 }
 
 .row{
@@ -50,6 +49,7 @@ div header{
     height: 400px;
     min-height: 400px;
     min-width: 200px;
+    text-align: center;
     overflow: hidden;
     border-radius: 10px;
     cursor: pointer;
